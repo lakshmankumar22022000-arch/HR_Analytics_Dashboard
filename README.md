@@ -48,5 +48,5 @@ The goal is to create an **HR Analytics Dashboard** to help HR teams monitor att
 - [Download PDF](https://github.com/lakshmankumar22022000-arch/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Portfolio%20Dashboard(GitHub-POWER%20BI).pdf)
 
 - For a Screenshot version of the dashboard, click here:
-- ![HR Dashboard](https://github.com/lakshmankumar22022000-arch/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashboard(Screenshot).png)
+- [HR Dashboard](https://github.com/lakshmankumar22022000-arch/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashboard(Screenshot).png)
   
